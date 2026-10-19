@@ -21,7 +21,7 @@ window.cover?(Time.now.utc)
 
 ## Install
 ```ruby
-gem "stripe_billing_period"
+gem "stripe_billing_period", github: "moizafzal936/stripe_billing_period"
 ```
 
 ## Why
